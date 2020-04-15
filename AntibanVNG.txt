@@ -45,9 +45,6 @@
 ||cs.mbgame.gamesafe.qq.com:443^
 ||cs.mbgame.gamesafe.qq.com:10012^
 ||csoversea.mbgame.gamesafe.qq.com^ 
-||csoversea.mbgame.gamesafe.qq.com:80^
-||csoversea.mbgame.gamesafe.qq.com:443^
-||csoversea.mbgame.gamesafe.qq.com:10012^
 ||configuration.apple.com.akadns.net^
 ||cloud2.gsdk.proximabeta.com^
 ||cloud2.gsdk.proximabeta.com:18081^
