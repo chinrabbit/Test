@@ -15,6 +15,10 @@
 ! 118.175.93.112:46873
 !
 ! Tiếp đến mọi người copy toàn bộ ở dưới rồi Paste vào phần Blacklist của phần Privacy Setting của Adguard Pro nhé !
+! Những ai vừa bị ban 10 phút mấy ngày gần đây tốt nhất nên xóa hẳn PUBG đi rồi tải lại nhé
+! Ae cứ DLG với IGG để code Không giật chứ đừng dùng mod nhé vì dùng mod khả năng bay nhanh và cao lắm =)))
+! Đây là anti 10 năm :| ( Đéo bao gồm 10 phút) 
+! Để ý ping khi vào game thấy all xanh là chơi được
 ! Dùng Safari dưới dạng ẩn danh nhé (Icleaner Pro bỏ quét Safari)
 ! Không đi ăn trộm ăn cắp nhé mấy thằng lợn đi xin Hosts dạo :))) Có làm thì mới có ăn, không làm đòi ăn thì ăn ĐẦU BUỒI, ăn CỨT
 !...............................................................................................................................
