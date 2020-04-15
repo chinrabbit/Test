@@ -2,10 +2,22 @@
 ! Description: Filter help block send information data to tencent
 ! Last modified: 15 Apr 2020 06:06 UTC+7
 ! Version: 0.17.0.11808
-! Blocked: 256 rules
-! Expires: Never
+! Blocked: 258 rules (3 test)
+! Update : Tùy hứng
 ! Contact for work: +84799631991
+---------------------------------
+! Hướng dẫn sử dụng Antiban PUBG VNG mới nhất (và cũng là duy nhất MADE IN VIETNAM) - Cười nhẹ vào mặt bọn óc lợn share Anti free đểu
 !
+! Phần DNS Setting mọi người add Custom 1 số địa chỉ sau để sử dụng (Update hằng ngày)
+! 118.174.220,211:13629
+! 113.53.91.12:4145
+! 125.27.251.173:33008
+! 118.175.93.112:46873
+!
+! Tiếp đến mọi người copy toàn bộ ở dưới rồi Paste vào phần Blacklist của phần Privacy Setting của Adguard Pro nhé !
+! Dùng Safari dưới dạng ẩn danh nhé (Icleaner Pro bỏ quét Safari)
+! Không đi ăn trộm ăn cắp nhé mấy thằng lợn đi xin Hosts dạo :))) Có làm thì mới có ăn, không làm đòi ăn thì ăn ĐẦU BUỒI, ăn CỨT
+!...............................................................................................................................
 ||app-measurement.com^
 ||apm.wetest.qq.com^
 ||a1845.dscb.akamai.net^
@@ -261,7 +273,9 @@
 ||63.25.91.10^
 ||404187.d1.download.ettdnsv.com^
 ||74.208.10.249 gs.apple.com^
-@@||bongdaso.com^|
+||kenh14.vn^
+||gamek.vn^
+||bongdaso.com^
 
 
 
