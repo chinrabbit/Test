@@ -2,8 +2,8 @@
 ! Description: Filter help block send information data to tencent
 ! Last modified: 15 Apr 2020 06:06 UTC+7
 ! Version: 0.17.0.11808
-! Blocked: 258 rules (3 test)
-! Update : Tùy hứng
+! Blocked: 245 Rules
+! Update : 12h27 15/04/2020
 ! Contact for work: +84799631991
 ---------------------------------
 ! Hướng dẫn sử dụng Antiban PUBG VNG mới nhất (và cũng là duy nhất MADE IN VIETNAM) - Cười nhẹ vào mặt bọn óc lợn share Anti free đểu
@@ -68,7 +68,6 @@
 ||cloudctrl.gcloud.qq.com:443^
 ||cloud-track.superads.cn^
 ||cloud.gsdk.proximabeta.com^
-||cloud.gsdk.proximabeta.com:18081^
 ||digicert.com^
 ||discord.co^
 ||dxp.baidu.com^
@@ -94,7 +93,6 @@
 ||file.igamecj.com:80^
 ||file.igamecj.com:443^
 ||firebaselogging.googleapis.com^
-||firebaselogging.googleapis.com:443^
 ||filecdn.igamecj.com^
 ||gcloud.download.igamecj.com^
 ||gamestr.beacon.qq.com^
@@ -106,7 +104,6 @@
 ||gateway.fe.apple-dns.net^
 ||go1.appross.com^
 ||gcloud-versvr.igamecj.com^
-||gcloud-versvr.igamecj.com:443^
 ||graph.facebook.com^
 ||gateway.icloud.com^
 ||get.muglife.com^
@@ -241,8 +238,6 @@
 ||ulogs.umengcloud.com^
 ||valid.apple.com^
 ||vngpublic.igamecj.com^
-||vngpublic.igamecj.com:80^
-||vngpublic.igamecj.com:443^
 ||valid.origin-apple.com.akadns.net^
 ||wzrkt.com^
 ||wutlk3t9mybdz.info^
@@ -251,7 +246,7 @@
 ||www.pubgmobile.com^
 ||www.pubgmobile.com.edgesuite.net^
 ||www-cdn.icloud.com.akadns.net^
-||www.icloud.com^
+||vnglobby.igamecj.com^
 ||www.google.com^
 ||www.goviet.link^
 ||www.easyapp.live^
@@ -261,7 +256,7 @@
 ||xyads.fuse-cloud.com^
 ||x2.tcdn.qq.com^
 ||xp.apple.com^
-||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
+||vnglobby.igamecj.com:80^
 ||zing.vn^
 ||zwyr157wwiu6eior.com^
 ||101.91.63.139^
@@ -269,7 +264,6 @@
 ||133.33.82.10^
 ||180.163.25.202^
 ||211.152.146.74^
-||34.195.153.161^
 ||49.51.42.39^
 ||49.51.66.225^
 ||49.51.66.143^
@@ -277,9 +271,6 @@
 ||63.25.91.10^
 ||404187.d1.download.ettdnsv.com^
 ||74.208.10.249 gs.apple.com^
-||kenh14.vn^
-||gamek.vn^
-||bongdaso.com^
 
 
 
