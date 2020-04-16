@@ -2,8 +2,8 @@
 ! Description: Filter help block send information data to tencent
 ! Last modified: 15 Apr 2020 06:06 UTC+7
 ! Version: 0.17.0.11808
-! Blocked: 245 Rules
-! Update : 12h27 15/04/2020
+! Blocked: Many
+! Update : 11h00 16/04/2020
 ! Contact for work: +84799631991
 ---------------------------------
 ! Hướng dẫn sử dụng Antiban PUBG VNG mới nhất (và cũng là duy nhất MADE IN VIETNAM) - Cười nhẹ vào mặt bọn óc lợn share Anti free đểu
