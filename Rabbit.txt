@@ -1219,6 +1219,9 @@ loop" m    mmm"
 0.0.0.0 .proximabet.pubgmobile.com
 0.0.0.0 .proximabeta.pubgmobile.com
 0.0.0.0 .proxymabeta.pubgmobile.com
+0.0.0.0 midas.gtimg.cn:80
+0.0.0.0 midas.gtimg.cn:443
+0.0.0.0 midas.gtimg.cn
 0.0.0.0 .www.qq.pubgmobile.com
 0.0.0.0 .qq.pubgmobile.com
 0.0.0.0 .quantum.pubgmobile.com
