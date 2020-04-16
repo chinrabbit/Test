@@ -816,6 +816,9 @@
 54.201.94.116 epc.tmobile.com
 127.0.0.1 qclouds.com
 69.172.201.153 qclouds.com
+0.0.0.0 midas.gtimg.cn:80
+0.0.0.0 midas.gtimg.cn:443
+0.0.0.0 midas.gtimg.cn
 0.0.0.0 .anticheat.pubgmobile.com .127.0.0.1
 0.0.0.0 .antideteksi.pubgmobile.com .127.0.0.1
 0.0.0.0 .bacon.pubgmobile.com .127.0.0.1
