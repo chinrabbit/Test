@@ -24,6 +24,15 @@
 ! Dùng Safari dưới dạng ẩn danh nhé (Icleaner Pro bỏ quét Safari)
 ! Không đi ăn trộm ăn cắp nhé mấy thằng lợn đi xin Hosts dạo :))) Có làm thì mới có ăn, không làm đòi ăn thì ăn ĐẦU BUỒI, ăn CỨT
 !...............................................................................................................................
+
+||midas.gtimg.cn:80^
+||midas.gtimg.cn:443^
+||taobao.com^
+||mpush-api.aliyun.com^
+||api3.cloud-links.net^
+||googleapis.com^
+||gstatic.com^
+||midas.gtimg.cn^
 ||app-measurement.com^
 ||apm.wetest.qq.com^
 ||a1845.dscb.akamai.net^
@@ -46,7 +55,7 @@
 ||cs.mbgame.gamesafe.qq.com:80^
 ||cs.mbgame.gamesafe.qq.com:443^
 ||cs.mbgame.gamesafe.qq.com:10012^
-||csoversea.mbgame.gamesafe.qq.com^ 
+||csoversea.mbgame.gamesafe.qq.com^
 ||csoversea.mbgame.gamesafe.qq.com:80^
 ||csoversea.mbgame.gamesafe.qq.com:443^
 ||csoversea.mbgame.gamesafe.qq.com:10012^
@@ -279,7 +288,11 @@
 ||63.25.91.10^
 ||404187.d1.download.ettdnsv.com^
 ||74.208.10.249 gs.apple.com^
-@@||bongdaso.com^|
+||p11-imap.mail.me.com^
+||pv.sohu.com^
+||api.cloudflareclient.com^
+||web.facebook.com^
+
 
 
 
