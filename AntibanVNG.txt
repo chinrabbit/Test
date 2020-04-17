@@ -11,7 +11,9 @@
 ! Phần DNS Setting mọi người sử dụng VPN tùy ý ( mình đéo dùng =)) )
 !
 !
-! Tiếp đến mọi người copy toàn bộ ở dưới rồi Paste vào phần Blacklist của phần Privacy Setting của Adguard Pro nhé !
+! Tiếp đến có 2 cách :
+! C1 : Mọi người copy toàn bộ ở dưới rồi Paste vào phần Blacklist của phần Privacy Setting của Adguard Pro nhé !
+! C2 : Vẫn trong Privacy Setting mọi người chỉ đơn giản ấn vào Add Subscription rồi paste đường link này vào phần URL (2 cái kia điền linh tinh j cũng được) rồi Done là xong
 ! Những ai vừa bị ban 10 phút mấy ngày gần đây tốt nhất nên xóa hẳn PUBG đi rồi tải lại nhé
 ! Ae cứ DLG với IGG để code Không giật chứ đừng dùng mod nhé vì dùng mod khả năng bay nhanh và cao lắm =)))
 ! Đây là anti 10 năm :| ( Đéo bao gồm 10 phút) 
@@ -19,982 +21,263 @@
 ! Dùng Safari dưới dạng ẩn danh nhé (Icleaner Pro bỏ quét Safari)
 ! Không đi ăn trộm ăn cắp nhé mấy thằng lợn đi xin Hosts dạo :))) Có làm thì mới có ăn, không làm đòi ăn thì ăn ĐẦU BUỒI, ăn CỨT
 !...............................................................................................................................
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .www.qq.com
-127.0.0.1 .tpns.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .dlied2.qq.com
-127.0.0.1 .dlied3.qq.com
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .dlied2.tcdn.qq.com
-127.0.0.1 .block.security.tencent.com
-127.0.0.1 .block.tencent.com
-127.0.0.1 .secure.tencent.com
-127.0.0.1 .203.205.211.75:14000
-127.0.0.1 .203.205.211.75:8080
-127.0.0.1 .secure.security.qq.com
-127.0.0.1 .secure.qq.com
-127.0.0.1 .secure.tcdn.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .im.qq.com
-127.0.0.1 .tgb.qq.com
-127.0.0.1 .dlied1.pubgmobile.com
-127.0.0.1 .diedl1.qq.com
-127.0.0.1 .str.mdt.qq.com
-127.0.0.1 .sqlobby.pg.qq.com
-127.0.0.1 .49.51.130.11:8085
-127.0.0.1 .gcloud.qq.com
-127.0.0.1 .me.zdrig.com
-127.0.0.1 .api.ribaoapi.com
-127.0.0.1 .183.36.108.31:8081
-127.0.0.1 .150.109.200.70:17500
-127.0.0.1 .203.205.128.130:80
-127.0.0.1 .203.205.128.159:80
-127.0.0.1 .speed.ino.qq.com
-127.0.0.1 .sdksp.video.qq.com
-127.0.0.1 .vv.video.qq.com
-127.0.0.1 .bkcommdata.v.qq.com
-127.0.0.1 .msfwifi.3g.qq.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .sqlobby.pg.com
-127.0.0.1 .saping.igamecj.com
-127.0.0.1 .kriping.igamecj.com
-127.0.0.1 .euping.igamecj.com
-127.0.0.1 .idc.receiver.tdm.qq.com
-127.0.0.1 .naping.igamecj.com
-127.0.0.1 .hkping.igamecj.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .ns-tel1.qq.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .qos.hk.gcloudcs.com
-127.0.0.1 .49.51.130.96:8086
-127.0.0.1 .mdt.qq.com
-127.0.0.1 .gfm.qq.com
-127.0.0.1 .pg.qq.com
-127.0.0.1 .gameeve.beacon.qq.com
-127.0.0.1 .gamestr.beacon.qq.com
-127.0.0.1 .app.adjust.com
-127.0.0.1 .report.huatuo.qq.com:443
-127.0.0.1 .pingfore.qq.com:443
-127.0.0.1 .m.guanjia.qq.com:443
-127.0.0.1 .pingfore.qq.com:443
-127.0.0.1 .report.syzs.qq.com:443
-127.0.0.1 .203.205.128.159:443
-127.0.0.1 .203.205.128.159:10012
-127.0.0.1 .2.23.109.150:443
-127.0.0.1 .2.23.109.150:80
-127.0.0.1 .203.205.151.193:8080
-127.0.0.1 .pingfore.qq.com:443
-127.0.0.1 .m.guanjia.qq.com:443
-127.0.0.1 .qbwup.imtt.qq.com
-127.0.0.1 .gcloud.qq.com
-127.0.0.1 .49.51.130.96:8088
-127.0.0.1 .secure.globalsign.com
-127.0.0.1 .ocsp2.globalsign.com
-127.0.0.1 .me.xdrig.com
-127.0.0.1 .info.3g.qq.com
-127.0.0.1 .oth.str.mdt.qq.com
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .web2.qq.com
-127.0.0.1 .mb.yidianzixun.com
-127.0.0.1 .str.mdt.qq.com
-127.0.0.1 .183.36.108.31:8081
-127.0.0.1 .sqlobby.pg.qq.com
-127.0.0.1 .aexception.bugly.qq.com
-127.0.0.1 .down.qq.com 
-127.0.0.1 .dlied1.qq.com 
-127.0.0.1 .pingjs.qq.com:443
-127.0.0.1 .s.pc.qq.com:443
-127.0.0.1 .c.gj.qq.com:443
-127.0.0.1 .guanjia.qq.com
-127.0.0.1 .sy.guanjia.qq.com:443
-127.0.0.1 .guanjia.qq.com
-127.0.0.1 .syzs.qq.com
-127.0.0.1 .s.pc.qq.com:443
-127.0.0.1 .www.globalsign.com
-127.0.0.1 .crl.globalsign.com
-127.0.0.1 .gcloud.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .ocsp1.globalsign.com
-127.0.0.1 .ocsp2.globalsign.com
-127.0.0.1 .ocsp3.globalsign.com
-127.0.0.1 .ocsp4.globalsign.com
-127.0.0.1 .203.205.128.159:443
-127.0.0.1 .ocsp5.globalsign.com
-127.0.0.1 .tj.video.qq.com
-127.0.0.1 .b.scorecardresearch.com
-127.0.0.1 .wx.qlogo.cn
-127.0.0.1 .aeventlog.beacon.qq.com
-127.0.0.1 .lcsdk.3g.qq.com
-127.0.0.1 .yyb.eve.mdt.qq.com
-127.0.0.1 .mayyb.cross.3g.qq.com
-127.0.0.1 .market.m.qq.com
-127.0.0.1 .yun-hl.3g.qq.com
-127.0.0.1 .log.tbs.qq.com
-127.0.0.1 .log.wtlogin.qq.com
-127.0.0.1 .pms.mb.qq.com
-127.0.0.1 .cgi.connect.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .kog.vmp.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .game.str.mdt.qq.com
-127.0.0.1 .game.eve.mdt.qq.com
-127.0.0.1 .portal.wsds.cn
-127.0.0.1 .sngmta.qq.com
-127.0.0.1 .cfg.imtt.qq.com
-127.0.0.1 .119.28.164.143:80
-127.0.0.1 .52.9.200.173:443
-127.0.0.1 .157.240.20.19:443
-127.0.0.1 .qbwup.imtt.qq.com
-127.0.0.1 .cfm.pandora.game.qq.com
-127.0.0.1 .aexception.bugly.qq.com
-127.0.0.1 .astat.bugly.qq.com
-127.0.0.1 .tj.video.qq.com 
-127.0.0.1 .wx.qlogo.cn
-127.0.0.1 .www.dingd.cn
-127.0.0.1 .api.dingd.cn
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .dlied2.qq.com
-127.0.0.1 .dlied3.qq.com
-127.0.0.1 .dlied4.qq.com
-127.0.0.1 .dlied5.qq.com
-127.0.0.1 .dlied6.qq.com
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .dlied1.tc.qq.com
-127.0.0.1 .dlied2.tcdn.qq.com
-127.0.0.1 .dlied2.tc.qq.com
-127.0.0.1 .dlied3.tcdn.qq.com
-127.0.0.1 .dlied3.tc.qq.com
-127.0.0.1 .dlied4.tcdn.qq.com
-127.0.0.1 .dlied4.tc.qq.com
-127.0.0.1 .dlied5.tcdn.qq.com
-127.0.0.1 .dlied5.tc.qq.com
-127.0.0.1 .dlied6.tcdn.qq.com
-127.0.0.1 .dlied6.tc.qq.com
-127.0.0.1 .appsupport.qq.com
-127.0.0.1 .commdata.v.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .android.bugly.qq.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .54.67.103.135:443
-127.0.0.1 .54.241.40.234:443
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .pingmid.qq.com
-127.0.0.1 .mta.qq.com
-127.0.0.1 .hkconfig.gcloud.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .172.104.163.233
-127.0.0.1 .203.205.128.159:10012
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .commdata.v.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .adstream.123.sogoucdn.com
-127.0.0.1 .art.theta.sogoucdn.com
-127.0.0.1 .bite.theta.sogoucdn.com
-127.0.0.1 .cdn.lu.sogoucdn.com
-127.0.0.1 .dl.wan.sogoucdn.com
-127.0.0.1 .galaxy.sogoucdn.com
-127.0.0.1 .gif.lu.sogoucdn.com
-127.0.0.1 .inte.theta.sogoucdn.com
-127.0.0.1 .jpg.inte.sogoucdn.com
-127.0.0.1 .moka.inte.sogoucdn.com
-127.0.0.1 .omg.inte.sogoucdn.com
-127.0.0.1 .png.lu.sogoucdn.com
-127.0.0.1 .pv.focus.cn
-127.0.0.1 .bbs.pcbeta.com
-127.0.0.1 .cdn.pcbeta.attachment.inimc.com
-127.0.0.1 .cdn.pcbeta.css.inimc.com
-127.0.0.1 .cdn.pcbeta.static.inimc.com
-127.0.0.1 .group.pcbeta.com
-127.0.0.1 .i.pcbeta.com
-127.0.0.1 .m.pcbeta.com
-127.0.0.1 .mac.pcbeta.com
-127.0.0.1 .pcbeta.com
-127.0.0.1 .static.template.pcbeta.com
-127.0.0.1 .uc.pcbeta.com
-127.0.0.1 .web.pcbeta.com
-127.0.0.1 .www.pcbeta.com
-127.0.0.1 .staticadm.leju.sina.com.cn
-127.0.0.1 .54.219.231.106:443
-127.0.0.1 .mp.weixin.qq.com
-127.0.0.1 .sz.btfs.mail.ftn.qq.com
-127.0.0.1 .172.104.163.233
-127.0.0.1 .114.124.204.24
-127.0.0.1 .idc.dir.tdm.qq.com
-127.0.0.1 .kuaibao.qq.com
-127.0.0.1 .player.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .mp.weixin.qq.com
-127.0.0.1 .sz.btfs.mail.ftn.qq.com
-127.0.0.1 .172.104.163.233
-127.0.0.1 .114.124.204.24
-127.0.0.1 .idc.dir.tdm.qq.com
-127.0.0.1 .kuaibao.qq.com
-127.0.0.1 .pingmid.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .beacon.gtimg.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .dlied2.qq.com
-127.0.0.1 .dlied3.qq.com
-127.0.0.1 .dlied.tcdn.qq.com
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .dlied2.tcdn.qq.com
-127.0.0.1 .dlied3.tcdn.qq.com
-127.0.0.1 .android.bugly.qq.com
-127.0.0.1 .appsupport.qq.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .oth.str.mdt.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .file-igamecj.akamaized.net
-127.0.0.1 .182.254.116.117
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .file.igamecj.com
-127.0.0.1 .oth.update.mdt.qq.com
-127.0.0.1 .wbapp.mobile.sina.cn
-127.0.0.1 .wbclick.mobile.sina.cn
-127.0.0.1 .wbpctips.mobile.sina.cn
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .ig-us-notice.igamecj.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .download.2.1950038955.igamevn.gcloudcs.com
-127.0.0.1 .vnlobby.igamecj.com
-127.0.0.1 .pay.igamecj.com
-127.0.0.1 .www.pubgmobile.com
-127.0.0.1 .hk.api.unipay.qq.com
-127.0.0.1 .idc.receiver.tdm.qq.com
-127.0.0.1 .file.igamecj.com
-127.0.0.1 .file-igamecj.akamaized.net
-127.0.0.1 .app.adjust.com
-127.0.0.1 .pubgmobile.helpshift.com
-127.0.0.1 .szmg.qq.com
-127.0.0.1 .185.151.204.6:443
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .pubgmobile.helpshift.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .apm.wetest.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .qos.hk.gcloudcs.com
-127.0.0.1 .download.2.1950038955.igamevn.gcloudcs.com
-127.0.0.1 .vnpublic.igamecj.com
-127.0.0.1 .pbs.twimg.com
-127.0.0.1 .idcconfig.gcloud.qq.com
-127.0.0.1 .qos.gcloud.qq.com
-127.0.0.1 .akamaihd.net
-127.0.0.1 .amazonaws.com
-127.0.0.1 .vnet.mobi
-127.0.0.1 .mycdma.cn
-127.0.0.1 .10.0.0.200
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .newspush.sinajs.cn
-127.0.0.1 .rs.sinajs.cn
-127.0.0.1 .d0.sinaimg.cn
-127.0.0.1 .203.205.142.207:8080
-127.0.0.1 .54.219.155.55:443
-127.0.0.1 .d1.sinaimg.cn
-127.0.0.1 .d2.sinaimg.cn
-127.0.0.1 .d3.sinaimg.cn
-127.0.0.1 .d6.sinaimg.cn
-127.0.0.1 .d7.sinaimg.cn
-127.0.0.1 .platform-lookaside.fbsbx.com 
-127.0.0.1 .d8.sinaimg.cn
-127.0.0.1 .203.205.146.45:80
-127.0.0.1 .dd.iask.cn
-127.0.0.1 .adm.leju.com
-127.0.0.1 .tongji.leju.com
-127.0.0.1 .203.205.146.122:14000
-127.0.0.1 .203.205.138.244:80
-127.0.0.1 .203.205.138.245:80
-127.0.0.1 .adimg.uve.weibo.com
-127.0.0.1 .alitui.weibo.com
-127.0.0.1 .biz.weibo.com
-127.0.0.1 .c.biz.weibo.com
-127.0.0.1 .c.wcpt.biz.weibo.com
-127.0.0.1 .game.weibo.com
-127.0.0.1 .s.alitui.weibo.com
-127.0.0.1 .sdkapp.uve.weibo.com
-127.0.0.1 .wbapp.uve.weibo.com
-127.0.0.1 .zymo.mps.weibo.com
-127.0.0.1 .dp.im.weibo.cn
-127.0.0.1 .game.weibo.cn
-127.0.0.1 .gw5.push.mcp.weibo.cn
-127.0.0.1 .m.game.weibo.cn
-127.0.0.1 .promote.biz.weibo.cn
-127.0.0.1 .adm.icast.cn
-127.0.0.1 .cast.ra.icast.cn
-127.0.0.1 .js.icast.cn
-127.0.0.1 .kw.ra.icast.cn
-127.0.0.1 .labs.ra.icast.cn
-127.0.0.1 .post.ra.icast.cn
-127.0.0.1 .pre.ra.icast.cn
-127.0.0.1 .aeventlog.beacon.qq.com
-127.0.0.1 .lcsdk.3g.qq.com
-127.0.0.1 .yyb.eve.mdt.qq.com
-127.0.0.1 .mayyb.cross.3g.qq.com
-127.0.0.1 .log.tbs.qq.com
-127.0.0.1 .50.18.32.157:443
-127.0.0.1 .203.205.179.215:7889
-127.0.0.1 .203.205.146.122:443
-127.0.0.1 .203.205.146.122:8080
-127.0.0.1 .log.wtlogin.qq.com
-127.0.0.1 .pms.mb.qq.com
-127.0.0.1 .android.bugly.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .182.254.116.117
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .file.igamecj.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .119.28.164.220
-127.0.0.1 .cgi.connect.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .kog.vmp.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .game.str.mdt.qq.com
-127.0.0.1 .game.eve.mdt.qq.com
-127.0.0.1 .portal.wsds.cn
-127.0.0.1 .sngmta.qq.com
-127.0.0.1 .cfg.imtt.qq.com
-127.0.0.1 .qbwup.imtt.qq.com
-127.0.0.1 .pms.mb.qq.com
-127.0.0.1 .android.bugly.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .182.254.116.117
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .file.igamecj.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .119.28.164.220
-127.0.0.1 .cgi.connect.qq.com
-127.0.0.1 .223.167.86.33:3013
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .kog.vmp.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .203.205.138.73:443
-127.0.0.1 .cfm.pandora.game.qq.com
-127.0.0.1 .aexception.bugly.qq.com
-127.0.0.1 .astat.bugly.qq.com
-127.0.0.1 .dlied1.tcdn.pubgmobile.com
-127.0.0.1 .keenlab.tencent.com
-127.0.0.1 .intl.cloud.tencent.com
-127.0.0.1 .qq.com
-127.0.0.1 .android.bugly.qq.com
-127.0.0.1 .apm.wetest.qq.com
-127.0.0.1 .appsupport.qq.com
-127.0.0.1 .cdn.wetest.qq.com
-127.0.0.1 .commdata.v.qq.com
-127.0.0.1 .cs.mbgame.gamesafe.qq.com
-127.0.0.1 .dlied1.qq.com
-127.0.0.1 .dlied1.tc.qq.com
-127.0.0.1 .dlied1.tcdn.qq.com
-127.0.0.1 .dlied2.qq.com
-127.0.0.1 .dlied2.tc.qq.com
-127.0.0.1 .dlied2.tcdn.qq.com
-127.0.0.1 .dlied3.qq.com
-127.0.0.1 .dlied3.tc.qq.com
-127.0.0.1 .dlied3.tcdn.qq.com
-127.0.0.1 .dlied4.qq.com
-127.0.0.1 .dlied4.tc.qq.com
-127.0.0.1 .dlied4.tcdn.qq.com
-127.0.0.1 .dlied5.qq.com
-127.0.0.1 .dlied5.tc.qq.com
-127.0.0.1 .dlied5.tcdn.qq.com
-127.0.0.1 .dlied6.qq.com
-127.0.0.1 .dlied6.tc.qq.com
-127.0.0.1 .dlied6.tcdn.qq.com
-127.0.0.1 .down.qq.com
-127.0.0.1 .hkconfig.gcloud.qq.com
-127.0.0.1 .idc.dir.tdm.qq.com
-127.0.0.1 .idc.receiver.tdm.qq.com
-127.0.0.1 .md.qq.com
-127.0.0.1 .mta.qq.com
-127.0.0.1 .oth.eve.mdt.qq.com
-127.0.0.1 .oth.str.mdt.qq.com
-127.0.0.1 .oth.update.mdt.qq.com
-127.0.0.1 .pingjs.qq.com
-127.0.0.1 .pingma.qq.com
-127.0.0.1 .rz.qq.com
-127.0.0.1 .ssd.tcdn.qq.com
-127.0.0.1 .tpns.qq.com
-127.0.0.1 .vmp.qq.com
-127.0.0.1 .cloud.gsdk.proximabeta.com
-127.0.0.1 .free igamecj.com
-127.0.0.1 .filecdn.igamecj.com
-127.0.0.1 .file.igamecj.com
-127.0.0.1 .hkspeed.igamecj.com
-127.0.0.1 .ig-us-notice.igamecj.com 
-127.0.0.1 .ig-us-sdkapi.igamecj.com
-127.0.0.1 .lobby.igamecj.com
-127.0.0.1 .twlobby.igamecj.com
-127.0.0.1 .vnlobby.igamecj.com
-127.0.0.1 .pay.igamecj.com
-127.0.0.1 .public.igamecj.com
-127.0.0.1 .twpublic.igamecj.com
-127.0.0.1 .vnpublic.igamecj.com
-127.0.0.1 .mrms.igamecj.com
-127.0.0.1 .pwk-match.igamecj.com
-127.0.0.1 .qos.hk.gcloudcs.com
-127.0.0.1 .dr.game.qq.com
-127.0.0.1 .game.qq.com
-127.0.0.1 .d2duuy9yo5pldo.cloudfront.net
-127.0.0.1 .tencentgames.helpshift.com
-127.0.0.1 .apm.wetest.qq.com
-127.0.0.1 .virtual.safe.qq.com
-127.0.0.1 .dlied1.safe.qq.com
-127.0.0.1 .files.phoenixos.com
-127.0.0.1 .cdn.phoenixos.com
-127.0.0.1 .analytics.phoenixos.com
-127.0.0.1 .api.phenixos.com
-127.0.0.1 .m.phoenixos.com
-127.0.0.1 .phoenixos.com
-127.0.0.1 .cheat.tencent.com
-127.0.0.1 .bug.tencent.com
-127.0.0.1 .bypass.tencent.com
-127.0.0.1 .cloud.tencent.com
-127.0.0.1 .report.cloud.tencent.com
-127.0.0.1 .banwave.tencent.com
-127.0.0.1 .antiban.tencent.com
-127.0.0.1 .antibancheat.tencent.com
-127.0.0.1 .antibanned.tencent.com
-127.0.0.1 .anticheat.tencent.com
-127.0.0.1 .antiheat.tencent.com
-127.0.0.1 .antireport.tencent.com
-127.0.0.1 .3d.qq.com
-127.0.0.1 .qqx.qq.com
-127.0.0.1 .jz.qq.com
-127.0.0.1 .imis.qq.com
-127.0.0.1 .im-cgi.qq.com
-127.0.0.1 .cface-page.qq.com
-127.0.0.1 .appedu.qq.com
-127.0.0.1 .magic.qq.com
-127.0.0.1 .citiccard.qq.com
-127.0.0.1 .gcs.qq.com
-127.0.0.1 .free.qq.com
-127.0.0.1 .91.qq.com
-127.0.0.1 .vnet.qq.com
-127.0.0.1 .www.tencent.com
-127.0.0.1 .cdc.tencent.com
-127.0.0.1 .wsd.tencent.com
-127.0.0.1 .isux.tencent.com
-127.0.0.1 .hr.tencent.com
-127.0.0.1 .isd.tencent.com
-127.0.0.1 .flashteam.tencent.com
-127.0.0.1 .research.tencent.com
-127.0.0.1 .security.tencent.com
-127.0.0.1 .rtx.tencent.com
-127.0.0.1 .tencent.com
-127.0.0.1 .webteam.tencent.com
-127.0.0.1 .bbs.tencent.com
-127.0.0.1 .cis.tencent.com
-127.0.0.1 .search.tencent.com
-127.0.0.1 .icon.tencent.com
-127.0.0.1 .webrtx.tencent.com
-127.0.0.1 .qqshow-user.tencent.com
-127.0.0.1 .campus.tencent.com
-127.0.0.1 .dl.tencent.com
-127.0.0.1 .love.tencent.com
-127.0.0.1 .digest.tencent.com
-127.0.0.1 .qqdl.tencent.com
-127.0.0.1 .service.tencent.com
-127.0.0.1 .www.helpshift.com
-127.0.0.1 .helpshift.com
-127.0.0.1 .anghami.helpshift.com
-127.0.0.1 .ookbee.helpshift.com
-127.0.0.1 .crowdstar.helpshift.com
-127.0.0.1 .ciegames.helpshift.com
-127.0.0.1 .lifelikeapps.helpshift.com
-127.0.0.1 .fluentu.helpshift.com
-127.0.0.1 .vectorunit.helpshift.com
-127.0.0.1 .auteureist.helpshift.com
-127.0.0.1 .slice.helpshift.com
-127.0.0.1 .circa.helpshift.com
-127.0.0.1 .developers.helpshift.com
-127.0.0.1 .scorebeyond.helpshift.com
-127.0.0.1 .gruupmeet.helpshift.com
-127.0.0.1 .zyamusic.helpshift.com
-127.0.0.1 .bitdrop.helpshift.com
-127.0.0.1 .earmark.helpshift.com
-127.0.0.1 .astrid.helpshift.com
-54.183.150.73 .helpshift.com
-52.9.60.147 .helpshift.com
-52.9.60.147 .helpshift.com
-52.9.7.128 .daisuke2110.helpshift.com
-13.57.77.238 .life360.helpshift.com
-52.52.16.20 .mx01.helpshift.com
-50.18.206.89 .mail1.helpshift.com
-52.52.238.239 .server1.helpshift.com
-52.52.224.18 .ns1.helpshift.com
-54.215.202.46 .dns1.helpshift.com
-52.52.54.108 .ww1.helpshift.com
-52.9.7.128 .proxy42.helpshift.com
-13.56.245.243 .playmc2.helpshift.com
-54.193.84.96 .mx1.helpshift.com
-54.183.16.146 .ns2.helpshift.com
-52.52.90.107 .dns2.helpshift.com
-54.183.67.143 .mx2.helpshift.com
-52.9.7.128 .pop3.helpshift.com
-52.52.238.239 .ns3.helpshift.com
-13.56.53.3 .ns4.helpshift.com
-54.183.16.146 .get1806.helpshift.com
-54.219.147.222 .ipv6.helpshift.com
-54.193.42.150 .circle38.helpshift.com
-52.9.75.49 .project529.helpshift.com
-54.193.72.180 .a.helpshift.com
-13.57.77.238 .puntaa.helpshift.com
-52.8.65.145 .novelba.helpshift.com
-50.18.206.89 .circa.helpshift.com
-52.8.145.214 28galxyz.helpshift.com
-50.18.31.184 28galxyz.helpshift.com
-54.241.232.229 28galxyz.helpshift.com
-52.52.16.20 28galxyz.helpshift.com
-13.56.105.238 28galxyz.helpshift.com
-54.241.231.146 28galxyz.helpshift.com
-54.241.166.129 28galxyz.helpshift.com
-54.67.104.81 28galxyz.helpshift.com
-52.52.235.78 28galxyz.helpshift.com
-54.183.44.199 87pubgmvn.helpshift.com
-54.241.107.81 87pubgmvn.helpshift.com
-54.215.231.249 87pubgmvn.helpshift.com
-54.241.145.20 87pubgmvn.helpshift.com
-54.241.77.51 87pubgmvn.helpshift.com
-54.67.72.144 87pubgmvn.helpshift.com
-54.219.159.56 87pubgmvn.helpshift.com
-54.219.138.63 87pubgmvn.helpshift.com
-54.67.79.17 87pubgmvn.helpshift.com
-54.219.149.153 99games.helpshift.com
-54.183.12.70 99games.helpshift.com
-54.183.111.10 99games.helpshift.com
-54.183.163.55 99games.helpshift.com
-54.183.185.38 99games.helpshift.com
-54.153.66.215 99games.helpshift.com
-54.153.29.242 99games.helpshift.com
-54.177.197.126 99games.helpshift.com
-54.183.129.3 99games.helpshift.com
-54.215.132.26 a.helpshift.com
-54.183.129.3 a.helpshift.com
-54.177.197.126 a.helpshift.com
-54.183.163.55 a.helpshift.com
-54.183.12.70 a.helpshift.com
-54.183.185.38 a.helpshift.com
-54.183.111.10 a.helpshift.com
-54.153.66.215 a.helpshift.com
-54.183.203.116 a.helpshift.com
-52.8.93.170 a33studio.helpshift.com
-52.8.178.82 acompli.helpshift.com
-52.52.5.103 activision.helpshift.com
-0152.8.106.109 admin.helpshift.com
-50.18.207.39 administration.helpshift.com
-54.193.97.115 ads.helpshift.com
-52.9.80.145 adserver.helpshift.com
-54.183.200.176 alpha.helpshift.com
-54.241.143.26 angrymob.helpshift.com
-54.219.155.158 anotherplace.helpshift.com
-52.9.216.252 apache.helpshift.com
-54.241.214.90 www.api-a.helpshift.com
-54.241.164.79 app.helpshift.com
-49.51.42.152 pay.igamecj.com
-183.3.235.71 sandbox.api.unipay.qq.com
-14.215.140.54 sandbox.api.unipay.qq.com
-183.3.235.71 sandbox.api.unipay.qq.com
-14.215.140.54 sandbox.api.unipay.qq.com
-127.0.0.1 https://hkconfig.gcloud.qq.com:11443
-58.247.214.32 https://hkconfig.gcloud.qq.com:114
-127.0.0.1 http://file.igamecj.com/1950038955/3090/cures/0.17.0.11803/1950038955_3090_0.17.0.11803_20200306021857_1018817590_cures.ifs
-127.0.0.1 https://file.igamecj.com/1950038955/3090/cures/0.17.0.11803/1950038955_3090_0.17.0.11803_20200306021857_1018817590_cures.ifs
-127.0.0.1 googleapis.com
-172.217.18.228 googleapis.com
-127.0.0.1 appdata.com
-50.112.55.247 appdata.com
-127.0.0.1 google.com
-172.217.18.238 google.com
-127.0.0.1 example.com
-93.184.216.34 example.com
-127.0.0.1 ww.qq.com
-58.247.214.47 .qq.com
-125.39.52.26 .qq.com
-58.250.137.36 .qq.com
-127.0.0.1 ww.facebook.com
-102.132.97.18 ww.facebook.com
-102.132.97.35 .facebook.com
-127.0.0.1 www.midasbuy.com
-203.205.224.26 www.midasbuy.com
-203.205.224.29 www.midasbuy.com
-203.205.224.16 www.midasbuy.com
-203.205.224.11 www.midasbuy.com
-127.0.0.1 www.w3.org
-128.30.52.100 www.w3.org
-127.0.0.1 amazon.com
-176.32.103.205 amazon.com
-205.251.242.103 amazon.com
-176.32.98.166 amazon.com
-127.0.0.1 schemas.android.com
-127.0.0.1 graph.facebook.com
-102.132.97.18 graph.facebook.com
-127.0.0.1 amazonnaws.com
-72.52.10.14 amazonnaws.com
-162.125.248.1 .dropbox.com
-69.164.223.52 .www.dualstack.com
-43.243.131.114 .dns.com
-162.125.69.7 .api.dropbox.com
-69.164.223.52 .api.dualstack.com
-162.125.69.7 .api.dropboxapi.com
-162.125.35.135 .api-d.dropbox.com
-162.125.35.134 .api-notify.dropbox.com
-13.224.102.84 .aem.dropbox.com
-13.224.102.54 .aem.dropbox.com
-13.224.102.125 .aem.dropbox.com
-13.224.102.112 .aem.dropbox.com
-162.125.69.8 .api-content.dropbox.com
-13.224.102.80 .blogs.dropbox.com
-13.224.102.111 .blogs.dropbox.com
-13.224.102.60 .blogs.dropbox.com
-13.224.102.31 .blogs.dropbox.com
-162.125.69.4 .block.dropbox.com
-162.125.35.134 .bolt.dropbox.com
-162.125.69.3 .client.dropbox.com
-162.125.69.3 .client-cf.dropbox.com
-162.125.69.3 .client-lb.dropbox.com
-162.125.69.3 .client-web.dropbox.com
-162.125.69.6 .dl.dropbox.com
-162.125.69.6 .dl-web.dropbox.com
-162.125.69.6 .dl-doc.dropbox.com
-52.3.88.191 .dl-debug.dropbox.com
-52.22.140.51 .dl-debug.dropbox.com
-52.203.155.34 .dl-debug.dropbox.com
-52.207.32.244 .dl-debug.dropbox.com
-35.173.173.251 .dl-debug.dropbox.com
-52.200.113.115 .dl-debug.dropbox.com
-35.170.154.163 .dl-debug.dropbox.com
-35.153.41.250 .dl-debug.dropbox.com
-13.224.102.8 .forums.dropbox.com
-13.224.102.43 .forums.dropbox.com
-13.224.102.56 .forums.dropbox.com
-13.224.102.98 .forums.dropbox.com
-13.224.102.93 .linux.dropbox.com
-13.224.102.17 .linux.dropbox.com
-13.224.102.105 .linux.dropbox.com
-13.224.102.107 .linux.dropbox.com
-13.224.102.64 .snapengage.dropbox.com
-13.224.102.18 .snapengage.dropbox.com
-13.224.102.87 .snapengage.dropbox.com
-13.224.102.97 .snapengage.dropbox.com
-162.125.69.2 .log.getdropbox.com
-150.95.236.68.cp.conoha.jp
-150.95.236.28 .www.conoha.jp
-150.95.236.52 .app.conoha.jp
-150.95.236.31 .manage.conoha.jp
-104.17.88.51 .www.change.org
-104.17.89.51 .www.change.org
-104.17.88.51 .assets.change.org
-104.17.89.51 .assets.change.org
-104.17.88.51 .change.org
-104.17.89.51 .change.org
-104.17.88.51 .assets-fe.change.org
-104.17.89.51 .assets-fe.change.org
-207.171.166.22 .cloudfront.com
-72.21.206.80 .cloudfront.com
-72.21.210.29 .cloudfront.com
-23.50.194.15 .blogthumb.pstatic.net
-184.29.5.30 .s-media-cache-ak0.pinimg.com
-184.29.5.30 .v.pinimg.com
-184.29.5.30 .i.pinimg.com
-184.29.5.30 .s.pinimg.com
-184.29.5.30 .passets-cdn.pinterest.com
-213.158.179.27 .a248.e.akamai.net
-213.158.179.25 .a248.e.akamai.net
-104.97.144.244 .akamai.com
-172.217.19.142 .www.appspot.com
-35.186.238.101 .appspot.net
-207.241.224.2 .archive.org
-207.241.225.95 .analytics.archive.org
-207.241.228.244 .ia802704.us.archive.org
-207.241.233.214 .web-beta.archive.org
-207.241.225.180 .wwwb-sentry.us.archive.org
-207.241.233.214 .web.archive.org
-102.132.97.35 .fbcdn.net
-102.132.97.18 .fbcdn.com
-172.217.18.229 .gmail.com
-172.217.18.234 .www.googleapis.com
-172.217.171.196 .googleapis.com
-218.11.11.196 .51.com
-118.212.226.62 .51.com
-121.29.54.195 .51.com
-220.194.87.190 .51.com
-221.204.166.20 .51.com
-221.204.166.24 .51.com
-116.95.25.200 .51.com
-119.188.39.231 .51.com
-118.212.234.89 .51.com
-221.204.166.36 .51.com
-27.221.28.204 .51.com
-221.204.166.38 .51.com
-119.167.216.44 .51.com
-119.167.217.46 .51.com
-27.221.28.207 .51.com
-127.0.0.1 vk.com
-87.240.139.194 vk.com
-87.240.137.158 vk.com
-87.240.190.67 vk.com
-87.240.190.72 vk.com
-87.240.190.78 vk.com
-93.186.225.208 vk.com
-127.0.0.1 adjust.com
-178.162.216.219 adjust.com
-127.0.0.1 graph.facebook.com
-102.132.97.18 graph.facebook.com
-192.64.147.203 .watching.com
-52.216.132.90 .system.com
-192.64.147.203 .system.watching.com
-192.0.78.25 .spy.com
-192.0.78.24 .spy.com
-192.64.147.203 .block.watching.com
-69.16.254.5 .block-system.com
-127.0.0.1 .444499.block.com
-140.82.118.4 github.com
-127.0.0.1 html5.qq.com
-127.0.0.1 qsz.qq.com
-127.0.0.1 graph.qq.com
-203.205.239.161 graph.qq.com
-203.205.253.150 graph.qq.com
-127.0.0.1 midasbuy.com
-203.205.224.16 midasbuy.com
-203.205.224.11 midasbuy.com
-203.205.224.26 midasbuy.com
-203.205.224.29 midasbuy.com
-127.0.0.1szmg.com
-127.0.0.1 p.mb.qq.com
-203.205.253.183 p.mb.qq.com
-203.205.253.140 p.mb.qq.com
-127.0.0.1 soso.com
-118.191.216.42 soso.com
-118.191.216.57 soso.com
-119.28.109.132 soso.com
-127.0.0.1 qzone.com
-127.0.0.1 wenwen.com
-182.254.5.145 wenwen.com
-127.0.0.1 myapp.com
-101.227.160.45 myapp.com
-127.0.0.1 wspeed.qq.com
-203.205.239.180 wspeed.qq.com
-127.0.0.1 openmobile.qq.com
-203.205.239.162 openmobile.qq.com
-127.0.0.1 cdn.wetest.qq.com
-203.205.137.242 cdn.wetest.qq.com
-203.205.137.227 cdn.wetest.qq.com
-203.205.137.29 cdn.wetest.qq.com
-203.205.137.232 cdn.wetest.qq.com
-203.205.235.17 pingma.qq.com
-127.0.0.1 mta.qq.com
-203.205.232.188 mta.qq.com
-127.0.0.1 epc.tmobile.com
-54.201.94.116 epc.tmobile.com
-127.0.0.1 qclouds.com
-69.172.201.153 qclouds.com
-0.0.0.0 midas.gtimg.cn:80
-0.0.0.0 midas.gtimg.cn:443
-0.0.0.0 midas.gtimg.cn
-0.0.0.0 .anticheat.pubgmobile.com .127.0.0.1
-0.0.0.0 .antideteksi.pubgmobile.com .127.0.0.1
-0.0.0.0 .bacon.pubgmobile.com .127.0.0.1
-0.0.0.0 .banpan.pubgmobile.com .127.0.0.1
-0.0.0.0 .banwave.pubgmobile.com .127.0.0.1
-0.0.0.0 .beta.pubgmobile.com .127.0.0.1
-0.0.0.0 .blacklist.pubgmobile.com .127.0.0.1
-0.0.0.0 .bluehole.pubgmobile.com .127.0.0.1
-0.0.0.0 .bug.pubgmobile.com .127.0.0.1
-0.0.0.0 .bughunter.pubgmobile.com .127.0.0.1
-0.0.0.0 .bypass.pubgmobile.com .127.0.0.1
-0.0.0.0 .cachefile.pubgmobile.com .127.0.0.1
-0.0.0.0 .cing.pubgmobile.com .127.0.0.1
-0.0.0.0 .cloud.pubgmobile.com .127.0.0.1
-0.0.0.0 .clubopen.pubgmobile.com .127.0.0.1
-0.0.0.0 .beta.clubopen.pubgmobile.com .127.0.0.1
-0.0.0.0 .hostmaster.clubopen.pubgmobile.com                  BJGAMING .127.0.0.1
-0.0.0.0 .clubupen.pubgmobile.com .127.0.0.1
-0.0.0.0 .clupopen.pubgmobile.com .127.0.0.1
-0.0.0.0 .could.pubgmobile.com .127.0.0.1
-0.0.0.0 .emulator.detected.pubgmobile.com .127.0.0.1
-0.0.0.0 .devel.pubgmobile.com .127.0.0.1
-0.0.0.0 .developer.pubgmobile.com .127.0.0.1
-0.0.0.0 .dlied1.pubgmobile.com .127.0.0.1
-0.0.0.0 .id.dlied1.pubgmobile.com BJGAMING .127.0.0.1
-0.0.0.0 .dmm.pubgmobile.com .127.0.0.1
-0.0.0.0 .dmn.pubgmobile.com .127.0.0.1
-0.0.0.0 .dns.pubgmobile.com .127.0.0.1
-0.0.0.0 .kr.emulator.pubgmobile.com .127.0.0.1
-0.0.0.0 .g9oo.pubgmobile.com .127.0.0.1
-0.0.0.0 .game.pubgmobile.com .127.0.0.1
-0.0.0.0 .games.pubgmobile.com .127.0.0.1
-0.0.0.0 .gcloud.pubgmobile.com .127.0.0.1
-0.0.0.0 .global.pubgmobile.com .127.0.0.1
-0.0.0.0 .helpshift.pubgmobile.com .127.0.0.1
-0.0.0.0 .id.pubgmobile.com .127.0.0.1
-0.0.0.0 .ig.pubgmobile.com .127.0.0.1
-0.0.0.0 .igamecj.pubgmobile.com .127.0.0.1
-0.0.0.0 .imsdk.pubgmobile.com .127.0.0.1
-0.0.0.0 .ingame.pubgmobile.com .127.0.0.1
-0.0.0.0 .intl.pubgmobile.com .127.0.0.1
-0.0.0.0 .ipv6.pubgmobile.com .127.0.0.1
-0.0.0.0 .java.pubgmobile.com .127.0.0.1
-0.0.0.0 .jkmxwzeuviatoqy.pubgmobile.com .127.0.0.1
-0.0.0.0 .kr.pubgmobile.com .127.0.0.1
-0.0.0.0 .krafton.pubgmobile.com .127.0.0.1
-0.0.0.0 .kremulator.pubgmobile.com .127.0.0.1
-0.0.0.0 .lan.pubgmobile.com .127.0.0.1
-0.0.0.0 .m.pubgmobile.com .127.0.0.1
-0.0.0.0 .mtp.pubgmobile.com .127.0.0.1
-0.0.0.0 .intl.mtp.pubgmobile.com .127.0.0.1
-0.0.0.0 .official.pubgmobile.com .127.0.0.1
-0.0.0.0 .pmco.pubgmobile.com .127.0.0.1
-0.0.0.0 .pmsc.pubgmobile.com .127.0.0.1
-0.0.0.0 .privacypolicy.pubgmobile.com .127.0.0.1
-0.0.0.0 .proximabet.pubgmobile.com .127.0.0.1
-0.0.0.0 .proximabeta.pubgmobile.com .127.0.0.1
-0.0.0.0 .proxymabeta.pubgmobile.com .127.0.0.1
-0.0.0.0 .www.qq.pubgmobile.com .127.0.0.1
-0.0.0.0 .qq.pubgmobile.com .127.0.0.1
-0.0.0.0 .quantum.pubgmobile.com .127.0.0.1
-0.0.0.0 .reko.pubgmobile.com .127.0.0.1
-0.0.0.0 .rekoo.pubgmobile.com .127.0.0.1
-0.0.0.0 .report.pubgmobile.com .127.0.0.1
-0.0.0.0 .riportingame.pubgmobile.com .127.0.0.1
-0.0.0.0 .s10.pubgmobile.com .127.0.0.1
-0.0.0.0 .scrip.pubgmobile.com .127.0.0.1
-0.0.0.0 .scurity.pubgmobile.com .127.0.0.1
-0.0.0.0 .security.pubgmobile.com .127.0.0.1
-0.0.0.0 .server.pubgmobile.com .127.0.0.1
-0.0.0.0 .servet.pubgmobile.com .127.0.0.1
-0.0.0.0 .sql.pubgmobile.com .127.0.0.1
-0.0.0.0 .support.pubgmobile.com .127.0.0.1
-0.0.0.0 .dlied1.tcdn.pubgmobile.com .127.0.0.1
-0.0.0.0 .tencent.pubgmobile.com .127.0.0.1
-0.0.0.0 .tencentgames.pubgmobile.com .127.0.0.1
-0.0.0.0 .tplay.pubgmobile.com .127.0.0.1
-0.0.0.0 .uc.pubgmobile.com .127.0.0.1
-0.0.0.0 .update.pubgmobile.com .127.0.0.1
-0.0.0.0 .uy.pubgmobile.com .127.0.0.1
-0.0.0.0 .vip.pubgmobile.com .127.0.0.1
-0.0.0.0 .vn.pubgmobile.com .127.0.0.1
-0.0.0.0 .vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .www.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .ipv6.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .update.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .loopback.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .bypass.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .web.vng.pubgmobile.com .127.0.0.1
-0.0.0.0 .web.pubgmobile.com .127.0.0.1
-0.0.0.0 .local.qq.com .127.0.0.1
-0.0.0.0 .oracle.qq.com .127.0.0.1
-0.0.0.0 .log.qq.com .127.0.0.1
-0.0.0.0 .auth.qq.com .127.0.0.1
-0.0.0.0 .eshop.qq.com .127.0.0.1
-0.0.0.0 .eshop.qq.com .127.0.0.1
-0.0.0.0 .mail.qq.com .127.0.0.1
-0.0.0.0 .mail.qq.com .127.0.0.1
-0.0.0.0 .whois.qq.com .127.0.0.1
-0.0.0.0 .backup.qq.com .127.0.0.1
-0.0.0.0 .wiki.qq.com .127.0.0.1
-0.0.0.0 .www.qq.com .127.0.0.1
-0.0.0.0 .beta.qq.com .127.0.0.1
-0.0.0.0 .www.qq.com .127.0.0.1
-0.0.0.0 .www.qq.com .127.0.0.1
-0.0.0.0 .blog.qq.com .127.0.0.1
-0.0.0.0 .f5.qq.com .127.0.0.1
-0.0.0.0 .f5.qq.com .127.0.0.1
-0.0.0.0 .f5.qq.com .127.0.0.1
-0.0.0.0 .f5.qq.com .127.0.0.1
-0.0.0.0 .blog.qq.com .127.0.0.1
-0.0.0.0 .cdn.qq.com .127.0.0.1
-0.0.0.0 .chat.qq.com .127.0.0.1
-0.0.0.0 .server.qq.com .127.0.0.1
-0.0.0.0 .shop.qq.com .127.0.0.1
-0.0.0.0 .shop.qq.com .127.0.0.1
-0.0.0.0 .shop.qq.com .127.0.0.1
-0.0.0.0 .shop.qq.com .127.0.0.1
-0.0.0.0 .mobile.qq.com .127.0.0.1
-0.0.0.0 .cms.qq.com .127.0.0.1
-0.0.0.0 .smtp.qq.com .127.0.0.1
-0.0.0.0 .smtp.qq.com .127.0.0.1
-0.0.0.0 .monitor.qq.com .127.0.0.1
-0.0.0.0 .corp.qq.com .127.0.0.1
-0.0.0.0 .gw.qq.com .127.0.0.1
-0.0.0.0 .mta.qq.com .127.0.0.1
-0.0.0.0 .help.qq.com .127.0.0.1
-0.0.0.0 .ssl.qq.com .127.0.0.1
-0.0.0.0 .home.qq.com .127.0.0.1
-0.0.0.0 .demo.qq.com .127.0.0.1
-0.0.0.0 .intldlgs.qq.com .127.0.0.1
-0.0.0.0 .helpshift.com .127.0.0.1
-0.0.0.0 .www.helpshift.com .127.0.0.1
-0.0.0.0 .helpshift.com .127.0.0.1
-0.0.0.0 .anghami.helpshift.com .127.0.0.1
-0.0.0.0 .ookbee.helpshift.com .127.0.0.1
-0.0.0.0 .crowdstar.helpshift.com .127.0.0.1
-0.0.0.0 .ciegames.helpshift.com .127.0.0.1
-0.0.0.0 .lifelikeapps.helpshift.com .127.0.0.1
-0.0.0.0 .fluentu.helpshift.com .127.0.0.1
-0.0.0.0 .vectorunit.helpshift.com .127.0.0.1
-0.0.0.0 .auteureist.helpshift.com .127.0.0.1
-0.0.0.0 .slice.helpshift.com .127.0.0.1
-0.0.0.0 .circa.helpshift.com .127.0.0.1
-0.0.0.0 .developers.helpshift.com .127.0.0.1
-0.0.0.0 .scorebeyond.helpshift.com .127.0.0.1
-0.0.0.0 .gruupmeet.helpshift.com .127.0.0.1
-0.0.0.0 .zyamusic.helpshift.com .127.0.0.1
-0.0.0.0 .bitdrop.helpshift.com .127.0.0.1
-0.0.0.0 .earmark.helpshift.com .127.0.0.1
-0.0.0.0 .astrid.helpshift.com .127.0.0.1
-0.0.0.0 .tencent.com .127.0.0.1
-0.0.0.0 .www.tencent.com .127.0.0.1
-0.0.0.0 .cdc.tencent.com .127.0.0.1
-0.0.0.0 .wsd.tencent.com .127.0.0.1
-0.0.0.0 .isux.tencent.com .127.0.0.1
-0.0.0.0 .hr.tencent.com .127.0.0.1
-0.0.0.0 .isd.tencent.com .127.0.0.1
-0.0.0.0 .flashteam.tencent.com .127.0.0.1
-0.0.0.0 .research.tencent.com .127.0.0.1
-0.0.0.0 .security.tencent.com .127.0.0.1
-0.0.0.0 .rtx.tencent.com .127.0.0.1
-0.0.0.0 .tencent.com .127.0.0.1
-0.0.0.0 .webteam.tencent.com .127.0.0.1
-0.0.0.0 .bbs.tencent.com .127.0.0.1
-0.0.0.0 .cis.tencent.com .127.0.0.1
-0.0.0.0 .search.tencent.com .127.0.0.1
-0.0.0.0 .icon.tencent.com .127.0.0.1
-0.0.0.0 .webrtx.tencent.com .127.0.0.1
-0.0.0.0 .qqshow-user.tencent.com .127.0.0.1
-0.0.0.0 .campus.tencent.com .127.0.0.1
-0.0.0.0 .dl.tencent.com .127.0.0.1
-0.0.0.0 .love.tencent.com .127.0.0.1
-0.0.0.0 .digest.tencent.com .127.0.0.1
-0.0.0.0 .qqdl.tencent.com .127.0.0.1
-0.0.0.0 .service.tencent.com .127.0.0.1
+||app-measurement.com^
+||apm.wetest.qq.com^
+||a1845.dscb.akamai.net^
+||apple.com^
+||alibaba.com^
+||akamaiedge.net^
+||aff.mclick.mobi^
+||ads.global.mobcastlead.com^
+||app.adjust.com^
+||amazon.combeacon.sparta.mig.tencent-cloud.net^
+||bugly.qq.com^
+||bingmob.offerstrack.net^
+||bds-sg.byteoversea.com^
+||b-alternative.zedge.me^
+||bbc.co.uk^
+||c.tdm.qq.com^
+||c.o5o4o6.com^
+||c.performancecentral.mobi^
+||cs.mbgame.gamesafe.qq.com^
+||cs.mbgame.gamesafe.qq.com:80^
+||cs.mbgame.gamesafe.qq.com:443^
+||cs.mbgame.gamesafe.qq.com:10012^
+||csoversea.mbgame.gamesafe.qq.com^ 
+||csoversea.mbgame.gamesafe.qq.com:80^
+||csoversea.mbgame.gamesafe.qq.com:443^
+||csoversea.mbgame.gamesafe.qq.com:10012^
+||configuration.apple.com.akadns.net^
+||cloud2.gsdk.proximabeta.com^
+||cloud2.gsdk.proximabeta.com:18081^
+||client-beta.pubgameshowtime.com^
+||cdn.dlninja.com^
+||caldav.icloud.com^
+||clk.hehemobi.com^
+||clk.hopemobi.net^
+||cacerts.digicert.com^
+||cmt.comodoca.com^
+||comodoca.com^
+||crl.comodoca.com^
+||crl3.digicert.com^
+||crl4.digicert.com^
+||cdn.wetest.qq.com^
+||cdn.wetest.qq.com:443^
+||cloudctrl.gcloud.qq.com^
+||cloudctrl.gcloud.qq.com:443^
+||cloud-track.superads.cn^
+||cloud.gsdk.proximabeta.com^
+||cloud.gsdk.proximabeta.com:18081^
+||digicert.com^
+||discord.co^
+||dxp.baidu.com^
+||doc-04-4g-docs.googleusercontent.com^
+||downloads.wutlk3t9mybdz.info^
+||downloads.mxo4bkqvdityebzvp.xyz^
+||d.tdm.qq.com^
+||d.symcb.com^
+||dlied1.qq.com^
+||dlied1.qq.com:80^
+||download.2.1375135419.igame.gcloudcs.com^
+||e4478.a.akamaiedge.net^
+||e4805.a.akamaiedge.net^
+||e6858.dsce9.akamaiedge.net^
+||e9959.e9.akamaiedge.net^
+||ettdnsv.com^
+||edge-mqtt.facebook.com^
+||eu.clientreport.gfm.qq.com^
+||euspeed.igamecj.com^
+||euping.igamecj.com^
+||e.crashlytics.com^
+||file.igamecj.com^
+||file.igamecj.com:80^
+||file.igamecj.com:443^
+||firebaselogging.googleapis.com^
+||firebaselogging.googleapis.com:443^
+||filecdn.igamecj.com^
+||gcloud.download.igamecj.com^
+||gamestr.beacon.qq.com^
+||gameeve.beacon.qq.com^
+||googleapis.l.google.com^
+||googlehosted.l.googleusercontent.com^
+||gsp64-ssl.ls-apple.com.akadns.net^
+||gsp-ssl.ls-apple.com.akadns.net^
+||gateway.fe.apple-dns.net^
+||go1.appross.com^
+||gcloud-versvr.igamecj.com^
+||gcloud-versvr.igamecj.com:443^
+||graph.facebook.com^
+||gateway.icloud.com^
+||get.muglife.com^
+||getdev.muglife.com^
+||goviet.link^
+||hkconfig.gcloud.qq.com^
+||hklong.weixin.qq.com^
+||hk.clientreport.gfm.qq.com^
+||hmma.baidu.com^
+||help.itop.qq.com^
+||hosts-file.net^
+||hkping.igamecj.com^
+||hkspeed.igamecj.com^
+||iadsdk.apple.com^
+||igamecj.com^
+||iadsdk.apple.com.edgekey.net^
+||init.itunes.apple.com^
+||init.ess.apple.com.edgesuite.net^
+||ios.bugly.qq.com^
+||identity.ess.apple.com^
+||identity.ess-apple.com.akadns.net^
+||itunes-cdn.itunes-apple.com.akadns.net^
+||idcconfig.gcloud.qq.com^
+||idcconfig.gcloud.wechatos.net^
+||ig-us-notice.igamecj.com^
+||ig-us-sdkapi.igamecj.com^
+||i.ytimg.com^
+||i3.ytimg.com^
+||intldlgs.qq.com^
+||intldlgs.qq.com:80^
+||intldlgs.qq.com:443^
+||ios.bugly.qcloud.com^
+||ip-api.com^
+||ipv4only.arpa^
+||itop.qq.com^
+||krping.igamecj.com^
+||keyvalueservice.fe.apple-dns.net^
+||kr.clientreport.gfm.qq.com^
+||krspeed.igamecj.com^
+||live.com^
+||lobby.igamecj.com^
+||lh4.googleusercontent.com^
+||lh5.googleusercontent.com^
+||logger.adthor.com^
+||m.deliverynow.vn^
+||mesu-cdn.apple.com.akadns.net^
+||mesu-cdn.origin-apple.com.akadns.net^
+||meping.igamecj.com^
+||me.clientreport.gfm.qq.com^
+||mespeed.igamecj.com^
+||me.apple-dns.net^
+||metrics.icloud.com^
+||midas.gtimg.cn^
+||midas.gtimg.cn:80^
+||midas.gtimg.cn:443^
+||nawzryhwatm.broker.tplay.qq.com^
+||na.pvp1.igamecj.com^
+||naping.igamecj.com^
+||naspeed.igamecj.com^
+||napubgm.broker.tplay.qq.com^
+||na.clientreport.gfm.qq.com^
+||ocsp.dcocsp.cn^
+||ocsp.digicert.com^
+||push.apple.com^
+||pancake.apple.com^
+||profile.gc-apple.com.akadns.net^
+||puffer.4.1375135419.igame.gcloudcs.com^
+||pandora.game.qq.com^
+||pubgm.zing.vn^
+||pubgmvn.helpshift.com^
+||pubgmvn.helpshift.com:80^
+||pubgmvn.helpshift.com:443^
+||platform-lookaside.fbsbx.com^
+||pubg-mobile-vng.appspot.com^
+||pubg-mobile-vng.firebaseio.com^
+||play.googleapis.com^
+||pingma.qq.com^
+||public.igamecj.com^
+||pbs.twimg.com^
+||pingmid.qq.com^
+||pay.igamecj.com^
+||pay.igamecj.com:80^
+||pay.igamecj.com:443^
+||p11-keyvalueservice.icloud.com^
+||p11-streams.icloud.com^
+||p11-content.icloud.com^
+||p11-fmfmobile.icloud.com^
+||p53-fmfmobile.icloud.com^
+||p24-buy.itunes-apple.com.akadns.net^
+||p09-keyvalueservice.icloud.com^
+||qq.com^
+||qos.hk.gcloudcs.com^
+||reports.crashlytics.com^
+||rqd.uu.qq.com^
+||receiver.sg.tdm.qq.com^
+||receiver.sg.tdm.qq.com:3013^
+||sl.scdn.vn^
+||sf3-ttcdn-tos.pstatp.com^
+||setup.icloud.com^
+||statuse.digitalcertvalidation.com^
+||sg.tdm.qq.com^
+||sg.tdm.qq.com:3013^
+||saping.igamecj.com^
+||saspeed.igamecj.com^
+||sa.clientreport.gfm.qq.com^
+||star.c10r.facebook.com^
+||scontent.xx.fbcdn.net^
+||safebrowsing.googleapis.com^
+||sparta.qb.mig.tencent-cloud.net^
+||symcb.com^
+||symcd.com^
+||ss.symcb.com^
+||ss.symcd.com^
+||share.pubgameshowtime.com^
+||secure.comodo.com^
+||settings.crashlytics.com^
+||time-ios.apple.com^
+||tencentgames.helpshift.com^
+||tencentgames.helpshift.com:80^
+||tencentgames.helpshift.com:443^
+||tpns.qq.com^
+||thirdwx.qlogo.com^
+||tracking2.appsflower.com^
+||tpl-065.aflemy.com^
+||thirdwx.qlogo.cn^
+||trk.superads.cn^
+||trk.iskyworker.com^
+||track.sgdmobile.com^
+||tracking.yohoads.com^
+||tracking.lenzmx.com^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
+||valid.apple.com^
+||vngpublic.igamecj.com^
+||vngpublic.igamecj.com:80^
+||vngpublic.igamecj.com:443^
+||valid.origin-apple.com.akadns.net^
+||wzrkt.com^
+||wutlk3t9mybdz.info^
+||web.gcloud.igamecj.com^
+||net.cn^
+||pubgmobile.com^
+||pubgmobile.com.edgesuite.net^
+||cdn.icloud.com.akadns.net^
+||icloud.com^
+||google.com^
+||goviet.link^
+||easyapp.live^
+||baidu.com^
+||wshifen.com^
+||bbc.co.uk^
+||xyads.fuse-cloud.com^
+||x2.tcdn.qq.com^
+||xp.apple.com^
+||xjp.wagbridge-lazada.alibaba-inc.com.gds.alibabadns.com^
+||zing.vn^
+||zwyr157wwiu6eior.com^
+||101.91.63.139^
+||119.28.33.29^
+||133.33.82.10^
+||180.163.25.202^
+||211.152.146.74^
+||34.195.153.161^
+||49.51.42.39^
+||49.51.66.225^
+||49.51.66.143^
+||51.255.68.3^
+||63.25.91.10^
+||404187.d1.download.ettdnsv.com^
+||74.208.10.249 gs.apple.com^
+@@||bongdaso.com^|
+
 
 
 
