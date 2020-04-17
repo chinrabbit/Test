@@ -9,8 +9,11 @@
 ! Hướng dẫn sử dụng Antiban PUBG VNG mới nhất (và cũng là duy nhất MADE IN VIETNAM) - Cười nhẹ vào mặt bọn óc lợn share Anti free đểu
 !
 ! Phần DNS Setting mọi người sử dụng VPN tùy ý ( mình đéo dùng =)) )
-!
-!
+!  1.20.96.158:4153
+!  125.25.165.91:4153
+!  118.174.47.182:4145
+!  118.174.149.126:4145
+!  203.114.124.206:4145
 ! Tiếp đến có 2 cách :
 ! C1 : Mọi người copy toàn bộ ở dưới rồi Paste vào phần Blacklist của phần Privacy Setting của Adguard Pro nhé !
 ! C2 : Vẫn trong Privacy Setting mọi người chỉ đơn giản ấn vào Add Subscription rồi paste đường link này vào phần URL (2 cái kia điền linh tinh j cũng được) rồi Done là xong
